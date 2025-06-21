@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/thailand-planer/static/css/main.c80a1f11.css",
-    "main.js": "/thailand-planer/static/js/main.70a9d11a.js",
+    "main.js": "/thailand-planer/static/js/main.1a8006e2.js",
     "static/js/453.aefbc9b3.chunk.js": "/thailand-planer/static/js/453.aefbc9b3.chunk.js",
     "index.html": "/thailand-planer/index.html",
     "main.c80a1f11.css.map": "/thailand-planer/static/css/main.c80a1f11.css.map",
-    "main.70a9d11a.js.map": "/thailand-planer/static/js/main.70a9d11a.js.map",
+    "main.1a8006e2.js.map": "/thailand-planer/static/js/main.1a8006e2.js.map",
     "453.aefbc9b3.chunk.js.map": "/thailand-planer/static/js/453.aefbc9b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c80a1f11.css",
-    "static/js/main.70a9d11a.js"
+    "static/js/main.1a8006e2.js"
   ]
 }
